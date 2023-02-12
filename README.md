@@ -44,6 +44,6 @@ Or, if you wanted to generate 10,000 comets for a system "New Star" that already
 ## Acknowledgements
 
  - [Offical SE Scripting manual](https://spaceengine.org/manual/user-manual)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
+
 
 
